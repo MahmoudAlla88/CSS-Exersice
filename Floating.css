@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(220, 220, 179);
+}
+div{
+    display: inline;
+}
+
+.box{ 
+   
+    height:90px ;
+   
+    padding: 10px;
+   width:240px ;
+overflow: hidden;
+background-color: blueviolet;
+display: inline-block;
+}
+.cinter{ 
+    
+    overflow-y: scroll;
+    font-weight: bold;
+    display: block;
+    height: 70px;
+
+}
+hr{
+   height: 1px;
+   background-color: black;
+}
