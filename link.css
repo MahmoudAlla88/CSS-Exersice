@@ -1,4 +1,4 @@
-div:first-of-type{
+div span{
     color:blue;
 }
 div a{
@@ -10,6 +10,6 @@ li a{
 ul ul{
     color: blue;
 }
-ul li:first-of-type{
+ul li span{
 font-weight: bold;
 }
